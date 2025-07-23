@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ivan Stoyanov
 
-**Fullstack Developer – Seeking 12-month Internship (start Sep/Oct 2025)**  
+**Fullstack Developer – Seeking 12-month Apprenticeship (start Sep/Oct 2025)**  
 With solid foundation in React, TypeScript, Tailwind CSS, Node.js, Git Flow, and agile methodologies, I’m looking for a dynamic environment to quickly grow my skills.
 
 ---
