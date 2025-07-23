@@ -5,7 +5,7 @@ With a solid foundation in React, TypeScript, Tailwind CSS, Node.js, Git Flow, a
 
 ---
 
-## 🔨 Projects
+## 🏗 Projects
 
 ### [JJ Hings Ice Cream](https://github.com/ivston/jjhings/blob/main/README.md)  
 A simple showcase website for an ice cream shop built with React and Tailwind CSS.
