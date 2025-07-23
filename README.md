@@ -1,6 +1,7 @@
 # Hi, I’m Ivan!
 
-**A Fullstack Developer seeking a 12-month Apprenticeship starting Sep/Oct 2025**  
+**A Fullstack Developer seeking a 12-month Apprenticeship starting Sep/Oct 2025**
+
 With a solid foundation in React, TypeScript, Tailwind CSS, Node.js, Git Flow, and agile methodologies, I’m looking for a dynamic environment to quickly grow my skills.
 
 ---
