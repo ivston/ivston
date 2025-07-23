@@ -21,14 +21,6 @@ An interactive game created with vanilla JavaScript, featuring light animations 
 
 ---
 
-## 📫 How to reach me
-
-- Email: [ivan.stoyanov@gmail.com](mailto:ivan.stoyanov@gmail.com)  
-- LinkedIn: [linkedin.com/in/ivston](https://linkedin.com/in/ivston)  
-
-
----
-
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS  
@@ -36,3 +28,13 @@ An interactive game created with vanilla JavaScript, featuring light animations 
 - **Databases:** MongoDB  
 - **Version Control:** Git, GitHub, Git Flow  
 - **Tools:** VS Code, Postman
+
+  ---
+  
+## 📫 How to reach me
+
+- Email: [ivan.stoyanov@gmail.com](mailto:ivan.stoyanov@gmail.com)  
+- LinkedIn: [linkedin.com/in/ivston](https://linkedin.com/in/ivston)  
+
+
+---
