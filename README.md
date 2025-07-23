@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Ivan Stoyanov
 
-<!--
-**ivston/ivston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer – Seeking 12-month Internship (start Sep/Oct 2025)**  
+With solid foundation in React, TypeScript, Tailwind CSS, Node.js, Git Flow, and agile methodologies, I’m looking for a dynamic environment to quickly grow my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+
+### [JJ Hings Ice Cream](https://github.com/ivston/jjhings/blob/main/README.md)  
+A simple showcase website for an ice cream shop built with React and Tailwind CSS.
+
+### [Rider-A-Waite]([Link](https://github.com/ivston/rider-a-waite-frontend/blob/main/README.md))  
+A full-stack Tarot card reading platform using React, Express, Node.js, and MongoDB.
+
+### [PokémonGET]([Link](https://github.com/claire2d2/poke-project/blob/main/README.md))  
+A Pokémon quiz platform developed with React, TypeScript, Tailwind CSS, and the Pokémon API.
+
+### [Fishing Game](https://ivston.github.io/fishing-game/)  
+An interactive game created with vanilla JavaScript, featuring light animations and a smooth user experience.
+
+---
+
+## 📫 How to reach me
+
+- Email: [ivan.stoyanov@gmail.com](mailto:ivan.stoyanov@gmail.com)  
+- LinkedIn: [linkedin.com/in/ivston](https://linkedin.com/in/ivston)  
+
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS  
+- **Databases:** MongoDB  
+- **Version Control:** Git, GitHub, Git Flow  
+- **Tools:** VS Code, Postman
