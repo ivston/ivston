@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ivan Stoyanov
+# Hi, I’m Ivan Stoyanov
 
 **Fullstack Developer – Seeking 12-month Apprenticeship (start Sep/Oct 2025)**  
 With a solid foundation in React, TypeScript, Tailwind CSS, Node.js, Git Flow, and agile methodologies, I’m looking for a dynamic environment to quickly grow my skills.
@@ -39,7 +39,7 @@ An interactive game created with vanilla JavaScript, featuring light animations 
 
 ## 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/Email-%20D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.stoyanov@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivston)
+- ✉️ [ivanstoyanov@outlook.com](mailto:ivanstoyanov@outlook.com)  
+- 🔗 [linkedin.com/in/ivston](https://linkedin.com/in/ivston)
 
 ---
